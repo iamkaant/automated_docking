@@ -13,7 +13,6 @@ We have used the structure with PDB ID: 6MA71 for the creation of the docking se
 Prepare `config.yaml` file as follows and put it into the working directory.
 ```yaml
 input_smi: "Fc1ccc(c(F)c1)C(O)(Cn2ncnc2)Cn3ncnc3"
-working_dir: "/home/docking"
 API_TOKEN: "1aaaaaaaaaaaaaaa"
 dock_executable: "/home/soft/dock38DOCK/ucsfdock/docking/DOCK/dock64"
 dockfiles_dir: "/path/to/dockfiles_dir" # Update this path as needed
