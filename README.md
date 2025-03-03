@@ -23,3 +23,6 @@ Run in the same directory `python automated_docking.py`
 After completion of docking, see `output.mol2` in the working directory. Use `rec.pdb` from the `dockfiles` directory to visualize the docked pose.
 
 If docking fails, check `dock/output/OUTDOCK` for the details.
+
+# Funding
+This work was supported by the Advanced Research Projects Agency for Health (ARPA-H) Award AY1AX000035.
